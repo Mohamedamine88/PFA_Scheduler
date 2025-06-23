@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 "# My Project" 
+=======
+# PFA_Scheduler
+A web-based academic management system with automatic schedule generation for thesis defenses, plus modules for managing students, teachers, rooms, authentication...
+>>>>>>> cca553e5a40f459d269f29a310a010120601d0d8
